@@ -1,0 +1,21 @@
+{
+    "name": "aaron/leads-epl",
+    "require": {
+        "illuminate/console": "^5.4",
+        "illuminate/container": "^5.4",
+        "illuminate/events": "^5.4",
+        "illuminate/database": "^5.4"
+
+    },
+    "authors": [
+        {
+            "name": "aaronscifo",
+            "email": "scifoaaron@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Appsilon\\LeadsEPL\\": "src/"
+        }
+    }
+}
