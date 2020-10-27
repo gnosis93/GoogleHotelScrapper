@@ -1,5 +1,5 @@
 <?php
-namespace Appsilon\LeadsEPL\Console\DB;
+namespace Webee\GoogleHotels\Console\DB;
 
 use Exception;
 use Illuminate\Console\Command;

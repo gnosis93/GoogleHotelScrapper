@@ -1,21 +1,23 @@
 {
-    "name": "aaron/leads-epl",
+    "name": "aaron/GoogleHotels",
     "require": {
         "illuminate/console": "^5.4",
         "illuminate/container": "^5.4",
         "illuminate/events": "^5.4",
-        "illuminate/database": "^5.4"
-
+        "illuminate/database": "^5.4",
+        "fabpot/goutte": "^4.0"
     },
+
     "authors": [
         {
             "name": "aaronscifo",
             "email": "scifoaaron@yahoo.com"
         }
     ],
+
     "autoload": {
         "psr-4": {
-            "Appsilon\\LeadsEPL\\": "src/"
+            "Webee\\GoogleHotels\\": "src/"
         }
     }
 }

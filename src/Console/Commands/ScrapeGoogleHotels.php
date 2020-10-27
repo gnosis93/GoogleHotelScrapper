@@ -1,8 +1,8 @@
 <?php
 
-namespace Appsilon\LeadsEPL\Console\Commands;
+namespace Webee\GoogleHotels\Console\Commands;
 
-use Appsilon\LeadsEPL\Console\DB\DBConnection;
+use Webee\GoogleHotels\Console\DB\DBConnection;
 use Illuminate\Console\Command ;
 use Illuminate\Support\Collection;
 

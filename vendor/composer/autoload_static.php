@@ -50,7 +50,7 @@ class ComposerStaticInit68ad6ee103aa040b1f94d033385ef853
         ),
         'A' => 
         array (
-            'Appsilon\\LeadsEPL\\' => 18,
+            'Webee\\GoogleHotels\\' => 18,
         ),
     );
 
@@ -131,7 +131,7 @@ class ComposerStaticInit68ad6ee103aa040b1f94d033385ef853
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
         ),
-        'Appsilon\\LeadsEPL\\' => 
+        'Webee\\GoogleHotels\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
